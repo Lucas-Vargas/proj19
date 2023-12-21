@@ -35,6 +35,14 @@
     </tr>
 </table>
 <h1 align="center">Tecnologias</h1>
+<p>Nosso projeto utiliza as seguintes tecnologias:</p>
+
+<ul>
+  <li>
+    ::marker
+    <p>HTML</p>
+  </li>
+</ul>
 <p>HTML</p>
 <p>CSS</p>
 <p>PHP</p>
