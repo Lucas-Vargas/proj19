@@ -34,8 +34,19 @@
       <td>Página dxe acesso restrito somente ao administrador, onde o mesmo insere tarefas para os usuários, tem acesso as tarefas criadas pelos usários e pode deletar e concluir o que quiser</td>
     </tr>
 </table>
+<h1 align="center">Tecnologias</h1>
+<p>HTML</p>
+<p>CSS</p>
+<p>PHP</p>
+<p>JS</p>
+<p>API de clima</p>
+<p>VsCode</p>
+<p>XAMPP</p>
+<p>WAMPSERVER</p>
+<p>Server Apache</p>
 
 <h1 align="center">Banco de Dados</h1>
   <img src="BD.png">
+  
 <h1 align="center">Telas</h1>
 
