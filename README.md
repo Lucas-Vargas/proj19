@@ -50,8 +50,10 @@
 </ul>
 
 <h1 align="center">Banco de Dados</h1>
+<div align="center">
   <img src="BD.png" align="center">
-  
+</div>
+
 <h1 align="center">Telas</h1>
 
 <img src="TELAS/Tela_1.png">
