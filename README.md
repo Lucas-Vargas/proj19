@@ -36,6 +36,6 @@
 </table>
 
 <h1 align="center">Banco de Dados</h1>
-  <img src="/BD">
+  <img src="proj19/BD.png">
 <h1 align="center">Telas</h1>
 
