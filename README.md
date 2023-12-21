@@ -38,20 +38,16 @@
 <p>Nosso projeto utiliza as seguintes tecnologias:</p>
 
 <ul>
-  <li>
-    ::marker
-    <p>HTML</p>
-  </li>
+  <li>HTML</li>
+  <li>CSS<li>
+  <li>PHP</li>
+  <li>JS</li>
+  <li>API de clima</li>
+  <li>VsCode</li>
+  <li>XAMPP</li>
+  <li>WAMPSERVER</li>
+  <li>Server Apache</li>
 </ul>
-<p>HTML</p>
-<p>CSS</p>
-<p>PHP</p>
-<p>JS</p>
-<p>API de clima</p>
-<p>VsCode</p>
-<p>XAMPP</p>
-<p>WAMPSERVER</p>
-<p>Server Apache</p>
 
 <h1 align="center">Banco de Dados</h1>
   <img src="BD.png">
