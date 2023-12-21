@@ -55,3 +55,7 @@
 <h1 align="center">Telas</h1>
 
 <img src="TELAS/Tela_1.png">
+<img src="TELAS/Tela_2.png">
+<img src="TELAS/Tela_3.png">
+<img src="TELAS/Tela_4.png">
+<img src="TELAS/Tela_5.png">
