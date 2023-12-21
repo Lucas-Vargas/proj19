@@ -39,7 +39,7 @@
 
 <ul>
   <li>HTML</li>
-  <li>CSS<li>
+  <li>CSS</li>
   <li>PHP</li>
   <li>JS</li>
   <li>API de clima</li>
